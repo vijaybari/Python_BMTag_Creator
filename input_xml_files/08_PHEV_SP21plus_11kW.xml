@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<config>
+    <root_tag name="SW_BM_R1P4T0_PHEV_SP21plus_11kW" />
+    <root_svn_path>https://desoeap16.delta.corp/svn/CCU22KW_auto_bmw/trunk/20_Design/23_Software/2307_Release/230704_FlashInstructionManuals/Testing</root_svn_path>
+    <root_source svn_path="https://desoeap16.delta.corp/svn/CCU22KW_auto_bmw/trunk/20_Design/23_Software/2304_Implementation/20_FBL/10_ComController/PHEV_SP21Plus_11kW_7k4_R8/10_BM" />
+    <BM>
+        <folder name="10_BM_XCP_C0" revision="486278" />
+        <folder name="11_BM_XETK_C0" revision="486268" />
+        <folder name="12_BM_XCP_D0" revision="486213" />
+        <folder name="13_BM_XETK_D0" revision="486198" />
+        <folder name="14_BM_XCP_D1" revision="486193" />        
+        <folder name="15_BM_XETK_D1" revision="486176" />
+    </BM>
+</config>
